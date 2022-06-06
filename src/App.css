@@ -1,0 +1,21 @@
+.App {
+    margin: auto;
+    text-align: center;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+#editor {
+    width: 80%;
+    height: 100px;
+    background-color: aliceblue;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+#preview {
+    background-color: antiquewhite;
+    margin-top: 200px;
+    margin-left: 100px;
+}
